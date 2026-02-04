@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MemoryLab - Privacy Policy</title>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to bottom, #2c1b12, #3e2723);
+      color: #f5f1ee;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #4e342e;
+      padding: 30px;
+      border-radius: 14px;
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.5);
+    }
+
+    h1 {
+      text-align: center;
+      color: #ffcc80;
+      margin-bottom: 10px;
+    }
+
+    .subtitle {
+      text-align: center;
+      font-size: 14px;
+      color: #d7ccc8;
+      margin-bottom: 30px;
+    }
+
+    h2 {
+      color: #ffb74d;
+      margin-top: 25px;
+    }
+
+    p {
+      line-height: 1.7;
+      color: #efebe9;
+    }
+
+    ul {
+      margin-left: 20px;
+      line-height: 1.7;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .card {
+      background: #3e2723;
+      padding: 18px;
+      border-radius: 10px;
+      margin-top: 15px;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 13px;
+      color: #bcaaa4;
+    }
+
+    .badge {
+      display: inline-block;
+      background: #6d4c41;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 12px;
+      color: #ffe0b2;
+      margin-bottom: 10px;
+    }
+
+    a {
+      color: #ffcc80;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        margin: 20px;
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>MemoryLab Privacy Policy</h1>
+    <div class="subtitle">
+      <span class="badge">Coffee Theme Edition ☕</span><br />
+      Last Updated: February 2026
+    </div>
+
+    <p>
+      Welcome to <strong>MemoryLab</strong>. Your privacy is important to us.
+      This Privacy Policy explains how MemoryLab handles user information.
+    </p>
+
+    <div class="card">
+      <h2>1. Information Collection</h2>
+      <p>
+        MemoryLab does <strong>not collect</strong>, store, or share any personal
+        information.
+      </p>
+
+      <ul>
+        <li>No account registration required</li>
+        <li>No login system</li>
+        <li>No name, email, phone number, or address collected</li>
+        <li>No payment information collected</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>2. Game Data</h2>
+      <p>
+        MemoryLab may store basic game progress locally on your device such as:
+      </p>
+
+      <ul>
+        <li>Game scores</li>
+        <li>Level progress</li>
+        <li>Settings preferences</li>
+      </ul>
+
+      <p>
+        This data never leaves your device and is not transmitted to any server.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>3. Internet Usage</h2>
+      <p>
+        MemoryLab is designed to work offline. The app does not require an
+        internet connection to function.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>4. Third-Party Services</h2>
+      <p>
+        MemoryLab does not integrate with any third-party analytics, tracking,
+        advertising, or marketing services.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>5. Children's Privacy</h2>
+      <p>
+        MemoryLab is safe for all age groups. Since we do not collect any personal
+        information, there is no risk of children's data being stored or shared.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>6. Data Security</h2>
+      <p>
+        As MemoryLab does not transmit or store personal data online, your
+        privacy and security remain fully protected on your own device.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>7. Changes to This Policy</h2>
+      <p>
+        We may update this Privacy Policy occasionally. Any changes will be
+        reflected on this page with an updated date.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>8. Contact Us</h2>
+      <p>
+        If you have any questions about this Privacy Policy, feel free to contact
+        us:
+      </p>
+
+      <p>
+        📧 Email: <strong>support@memorylab.app</strong>
+      </p>
+    </div>
+
+    <div class="footer">
+      ☕ MemoryLab — Train Your Brain, Respect Your Privacy
+    </div>
+
+  </div>
+
+</body>
+</html>
